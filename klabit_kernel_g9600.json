@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "klabit Kernel",
+    "version": "V5.7",
+    "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.7/g9600_klabit_pie_V5.7.zip",
+    "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/pie/changelog.txt",
+    "date": "2019-10-24",
+    "sha1": "eb5b1e2558d572031e526035cf5899e3cdf335c8"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/galaxy-s9/samsung-galaxy-s9--s9-snapdragon-roms-kernels-recoveries--other-development/sm-g9650-sm-g9600-pie-root-t3900816"
+  }
+}
