@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "klabit Kernel-GSI",
-    "version": "V5.8",
-    "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.8/n9600_klabit_pie_gsi_V5.8.zip",
-    "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/pie/changelogV5.8.txt",
-    "date": "2020-01-10",
-    "sha1": "9ee580a173fd246206bd017390ee0eb52792d38b"
+    "version": "V5.9",
+    "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.8/n9600_klabit_pie_gsi_V5.9.zip",
+    "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/pie/changelogV5.9.txt",
+    "date": "2020-01-13",
+    "sha1": "99cfa3133a8c8aba7f3ba646a28a6f4d89d641f1"
   },
   "support": {
     "link": "https://forum.xda-developers.com/galaxy-note-9/samsung-galaxy-note-9-snapdragon-roms-kernels-recoveries--other-development/kernel-n9600-klabit-kernel-t3992637"
