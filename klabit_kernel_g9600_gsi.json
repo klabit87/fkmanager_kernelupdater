@@ -2,7 +2,7 @@
   "kernel": {
     "name": "klabit Kernel-GSI",
     "version": "V5.9",
-    "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.8/g9600_klabit_pie_gsi_V5.9.zip",
+    "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.9/g9600_klabit_pie_gsi_V5.9.zip",
     "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/pie/changelogV5.9.txt",
     "date": "2020-01-13",
     "sha1": "7e4a5897545c3c35faab5be512113996d169aec7"
