@@ -3,7 +3,7 @@
     "name": "klabit Kernel",
     "version": "V5.8-test",
     "link": "https://github.com/klabit87/android_kernel_samsung_sdm845/releases/download/V5.8/g9650_klabit_pie_V5.8.zip",
-    "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/pie/changelogV5.8.txt",
+    "changelog_url": "https://github.com/klabit87/android_kernel_samsung_sdm845/raw/q/changelogV5.8.txt",
     "date": "2020-01-10",
     "sha1": "ae62583c2155da59640616b2ed1a1b4e4e7d1359"
   },
